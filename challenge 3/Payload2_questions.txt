@@ -1,0 +1,5 @@
+Title: "Ciphered Conundrum"
+Once upon a time in the mysterious world of cyberspace, a renowned hacker known as CipherGhost had hidden a secret flag behind a veil of encryption. The only clue provided was a sequence of seemingly random numbers:
+66 68 71 87 99 72 90 77 131 128 61 60 111 61 123 116 72 128 134 123 71 125 119 122 131 130 83 130 147 77 82 80 132 158 34
+The cybersecurity community was buzzing with excitement, eager to prove their skills by unraveling this cryptographic puzzle.Can you help them to solve this.Please help them and find the flag.
+Good Luck!

@@ -1,0 +1,10 @@
+Question Title: Cryptic Web Investigation
+
+Description:
+You've been provided with a 
+web link: https://milky-way2.github.io/odin-recipes/
+Your mission is to employ Open Source Intelligence (OSINT) techniques to uncover the concealed flag hidden within the enigmatic depths of this website.
+
+Instructions:
+    * Thoroughly investigate the website for any clues leading to the hidden flag.
+    * Utilize your OSINT skills to analyze the website's content, structure, and potential hidden elements.
