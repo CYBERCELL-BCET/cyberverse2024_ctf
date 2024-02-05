@@ -1,0 +1,48 @@
+1) payload name: hello.cpython-311.pyc
+flag: BCET_CTF{Mys73r10us_cybercEll_C0d3_Labyrinth_Exp3r1enc3}      hex encoded value: 424345545f4354467b4d7973373372313075735f637962657263456c6c5f433064335f4c61627972696e74685f457870337231656e63337d 
+
+
+2)payload name:Payload1
+flag: BCET_CTF{b14385aca5c0a8f8399bcda6a2e6ace4}
+
+
+3)payload name:Payload2
+flag: BCET_CTF{w31c0me8oth3hacki9gw041d}
+Question will be  66 68 71 87 99 72 90 77 131 128 61 60 111 61 123 116 72 128 134 123 71 125 119 122 131 130 83 130 147 77 82 80 132 158 34
+can you find flag from this juicy data using the given Payload2
+
+
+4)Payload name: Paload3
+flag: BCET_CTF{C0d3_cybercell_milky_way2_good}
+
+
+5) Payload name: Payload4
+flag: BCET_CTF{s0cyb3rc311_hambc38_cybe4_v34s3_2024}               base64 encoded flag: QkNFVF9DVEZ7czBjeWIzcmMzMTFfaGFtYmMzOF9jeWJlNF92MzRzM18yMDI0fQ==
+
+
+6)wayback machine: 
+website link:  https://milky-way2.github.io/odin-recipes/
+
+flag: BCET_CTF{thisISsO3asy}
+
+
+7)Morse code1
+ flag: BCET_CTF{welc0m3_t0_the_cryptic_world_hav3ag00dday}                hex encoded flag: 424345545f4354467b77656c63306d335f74305f7468655f637279707469635f776f726c645f6861763361673030646461797d
+
+
+8)Morse code2
+ link for flag: https://drive.google.com/drive/folders/1gMNSb0dIr6fmMMguLzNRzU1Y_XZkhxNZ?usp=sharing                                   hex value of link: 68747470733a2f2f64726976652e676f6f676c652e636f6d2f64726976652f666f6c646572732f31674d4e53623064497236666d4d4d67754c7a4e527a5531595f585a6b68784e5a3f7573703d73686172696e67
+ flag: BCET_CTF{weldone_y0uhav3_a_br1gh8fu8ur3_milky_way2}                                                                            base64 encoded flag:ZmxhZzogQkNFVF9DVEZ7d2VsZG9uZV95MHVoYXYzX2FfYnIxZ2g4ZnU4dXIzX21pbGt5X3dheTJ9
+
+
+
+9)cipher1
+flag: BCET_CTF{This1S908s0_ha4d}                                      rot47: qrt%0r%uL%9:D`$h_gD_092c5N
+
+
+
+
+10)cipher2
+flag: BCET_CTF{cyb34_c311_39d_gam3_thanky0u_bc38}           
+password: root
+encrypted flag: 30-2c-2a-20-2d-2c-3b-32-09-0c-16-16-41-5b-30-17-41-5e-5e-2b-41-56-0b-2b-15-0e-02-47-2d-1b-07-15-1c-04-16-44-07-30-0d-17-41-57-12
